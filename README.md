@@ -10,6 +10,8 @@ and then adds the reinvestment amount to the new total.
 
 This process repeats a "per" amount of times.
 
+This program calculates interest at the beginning of the period, and adds the reinvestment afterwards.
+
 A "yield" variable is created to calculate the yield amount, 
 this is done by taking the total investment after periods, 
 and subtracting the inital investment and the reinvestment amount times the period integer.
